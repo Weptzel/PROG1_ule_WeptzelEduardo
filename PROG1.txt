@@ -16,6 +16,24 @@
 
 9) Viral ------------------> https://dle.rae.es/viral
 
-10) Informática/o ----------> https://dle.rae.es/inform%C3%A1tico
+10) Informática/o ---------> https://dle.rae.es/inform%C3%A1tico
 
+11) Amigo, ga -------------> https://dle.rae.es/amigo
 
+12) Musical ---------------> https://dle.rae.es/musical?m=form
+
+13) Nave ------------------> https://dle.rae.es/nave?m=form
+
+14) Gemelo ----------------> https://dle.rae.es/gemelo?m=form
+
+15) Paisaje ---------------> https://dle.rae.es/paisaje?m=form
+
+16) Poción ----------------> https://dle.rae.es/poci%C3%B3n
+
+17) Orbe ------------------> https://dle.rae.es/orbe?m=form
+
+18) Programar -------------> https://dle.rae.es/programar?m=form
+
+19) Centro ----------------> https://dle.rae.es/centro?m=form
+
+20 Rayo -------------------> https://dle.rae.es/rayo?m=form
